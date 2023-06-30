@@ -11,7 +11,7 @@ dependencies:
     git:
       url: https://github.com/NemFR/flutter_cache_manager.git
   octo_image: ^1.0.0
-  cached_network_image_platform_interface: ^2.0.0
+
 
 
 
